@@ -1,4 +1,9 @@
 # RC-Rover
+
+For the most detailed overview of the project please refer to the design report:
+
+[Antgineers - Final Design Report - ENGR7A Fall 2023.pdf](https://github.com/ArasVakilimafakheri/RC-Rover/files/15211282/Antgineers.-.Final.Design.Report.-.ENGR7A.Fall.2023.pdf)
+
 ![iso rover](https://github.com/ArasVakilimafakheri/RC-Rover/assets/168691560/c0696952-09d4-4faa-acbe-a029e91a3969)
 
 The final design of our rover is pictured above with its SolidWorks design pictured below. Our rover changed significantly from our preliminary designs to what we put on the track. Ultimately, our rover design was reduced down to three subassemblies, which we called: Rear Drive Train, Main Chassis, and Steering.  The rover in its final form stands at 9.50 x 15.95 inches, putting us just below the dimensional constraint. It also satisfies safety requirements, as all edges were sanded down to ensure the safety of any user. Furthermore, to prevent accidents involving the gears in the Rear Drive Train, a gear guard was fabricated. Using SolidWorks, we were able to find the center of gravity at ≅ 4.64 inches in the x-direction (width) and ≅ 6.81 inches in the y-direction (length), when the furthest back and furthest left corner (the back left wheel, by the buck converter) of the rover was mated as the origin of the assembly file. Having run some manual calculations using the masses of the various components of our rover, we concurred that the SolidWorks calculations were a good estimate of the actual center of mass. This comes to no surprise as the majority of our rover’s weight is in the rear end due to our electronics configuration.
